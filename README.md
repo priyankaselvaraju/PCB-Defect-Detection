@@ -20,7 +20,7 @@ The dataset used in this project is available in the `PCB_DATASET` folder. It co
 
 1. **Clone the repository:**
 
-git clone https://github.com/your-username/pcb-defects.git
+git clone https://github.com/priyankaselvaraju/PCB-Defect-Detection
 
 cd pcb-defects
 
